@@ -1,5 +1,5 @@
 div {
-    text-align: center;
+    text-align: center;!important;
 }
 
 h1 {
@@ -20,6 +20,6 @@ p{
     font-size: 2rem;!important;
 }
 
-.btn:hover{
+button:hover{
     background-color: green;!important;
 }
