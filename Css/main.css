@@ -3,23 +3,23 @@ div {
 }
 
 h1 {
-    font-size: 3rem;
-    font-family: Impact;
-    margin:  2rem 0;
+    font-size: 3rem;!important;
+    font-family: Impact;!important;
+    margin:  2rem 0;!important;
 }
 
 button {
-    width: 250px;
-    height: 80px;
-    background-color: blue;
-    color: white;
-    margin:  2rem 0;
+    width: 250px;!important;
+    height: 80px;!important;
+    background-color: blue;!important;
+    color: white;!important;
+    margin:  2rem 0;!important;
 }
 
 p{
-    font-size: 2rem;
+    font-size: 2rem;!important;
 }
 
 button:hover{
-    background-color: green;
+    background-color: green;!important;
 }
