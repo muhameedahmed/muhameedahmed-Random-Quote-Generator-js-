@@ -20,6 +20,7 @@ p{
     font-size: 2rem;!important;
 }
 
-button:hover{
-    background-color: green;!important;
-}
+.hover-bg-success:hover {
+    background-color: #28a745 !important; /* Bootstrap success color */
+    border-color: #28a745 !important;
+  }
