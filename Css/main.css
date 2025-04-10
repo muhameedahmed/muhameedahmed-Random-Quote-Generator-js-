@@ -20,6 +20,6 @@ p{
     font-size: 2rem;!important;
 }
 
-button:hover{
+.btn:hover{
     background-color: green;!important;
 }
