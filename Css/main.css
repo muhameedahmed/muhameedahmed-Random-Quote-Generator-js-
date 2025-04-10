@@ -3,8 +3,9 @@ div {
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 3rem;
     font-family: Impact;
+    margin:  2rem 0;
 }
 
 button {
@@ -12,10 +13,11 @@ button {
     height: 80px;
     background-color: blue;
     color: white;
+    margin:  2rem 0;
 }
 
 p{
-    font-size: 35px;
+    font-size: 2rem;
 }
 
 button:hover{
